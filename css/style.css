@@ -1,0 +1,13 @@
+body {
+  /*background-color: rgb(200, 200, 200);*/
+  background-color: #C8C8C8;
+  margin: 50px;
+}
+
+h1 {
+  color: red;
+  font-family: helvetica, sans-serif;
+  margin: auto;
+  width: 50%;
+  font-size: 50px;
+}
